@@ -1,0 +1,18 @@
+NAME_TYPE,BREAK_START,BREAK_END
+State functions,100,170
+Inter-budgetary transfers,171,180
+Defense,200,299
+Public order and safety,300,399
+Economnic activity: general,400,410
+Economic activity: agriculture,411,420
+Economic activity: fuels,421,430
+Economic activity: construction,431,440
+Economic activity: transport,441,450
+Economic activity: communication,451,460
+Economic activity: other,461,499
+Environmental protection,500,599
+Housing and utilities,600,699
+Healthcare,700,799
+Cultural development,800,899
+Education,900,999
+Social security,1000,1099
